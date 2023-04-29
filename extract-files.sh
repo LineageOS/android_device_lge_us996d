@@ -18,7 +18,7 @@
 
 set -e
 
-export DEVICE=us996
+export DEVICE=us996d
 export DEVICE_COMMON=v20-common
 export PLATFORM_COMMON=msm8996-common
 export VENDOR=lge
