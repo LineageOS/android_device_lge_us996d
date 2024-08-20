@@ -22,7 +22,7 @@ DEVICE_PATH := device/lge/us996d
 TARGET_OTA_ASSERT_DEVICE := us996,us996d,elsa
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_us996d_defconfig
+TARGET_KERNEL_CONFIG := vendor/lge/us996d.config
 
 # inherit from the proprietary version
 include vendor/lge/us996d/BoardConfigVendor.mk
